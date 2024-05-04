@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\andre\Desktop\alien.gg\um\src\driver\driver.h(34,18): warning C4312: 'reinterpret_cast': conversione da 'const DWORD' a 'HANDLE', di dimensioni maggiori
+  (compilazione del file di origine 'src/main.cpp')
+  
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(50,12): warning C4244: 'inizializzazione': conversione da 'T' a 'BYTE'. Possibile perdita di dati.
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(50,12): warning C4244:         with
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(50,12): warning C4244:         [
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(50,12): warning C4244:             T=DWORD
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(50,12): warning C4244:         ]
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(80,26): warning C4804: '>': utilizzo non affidabile del tipo 'bool' nell'operazione
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(101,12): warning C4244: 'inizializzazione': conversione da 'T' a 'BYTE'. Possibile perdita di dati.
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(101,12): warning C4244:         with
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(101,12): warning C4244:         [
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(101,12): warning C4244:             T=DWORD
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(101,12): warning C4244:         ]
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(214,13): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(223,12): warning C4244: 'inizializzazione': conversione da 'T' a 'BYTE'. Possibile perdita di dati.
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(223,12): warning C4244:         with
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(223,12): warning C4244:         [
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(223,12): warning C4244:             T=DWORD
+C:\Users\andre\Desktop\alien.gg\um\src\main.cpp(223,12): warning C4244:         ]
+LINK : fatal error LNK1168: impossibile aprire 'C:\Users\andre\Desktop\alien.gg\build\um.exe' per la scrittura

@@ -1,0 +1,16 @@
+﻿  Building 'km' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping C:\Users\andre\Desktop\alien.gg\build\km_intermediates\km.inf
+  Stamping [Version] section with DriverVer=04/30/2024,11.50.35.971
+  km.vcxproj -> C:\Users\andre\Desktop\alien.gg\build\km.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\andre\Desktop\alien.gg\build\km\km.cat
